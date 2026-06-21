@@ -1,4 +1,4 @@
-Technology Research Projects
+#Technology Research Projects
 
 This repository contains research presentations, infographics, and technical documentation created while studying information technology, computer hardware, networking, and cybersecurity topics.
 
