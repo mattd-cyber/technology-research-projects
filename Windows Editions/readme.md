@@ -1,0 +1,1 @@
+Windows Editions Infographic
