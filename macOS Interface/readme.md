@@ -1,0 +1,1 @@
+macOS Interface Infographic
